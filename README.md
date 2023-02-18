@@ -1,7 +1,9 @@
 ### Installazione
 
 Digitare da terminale questo comando:
+
     `npm init`
+
 Seguire l'installazione guidata andando a sovrascrivere o meno i parametri di dafault.
 
 Modificare l'importazione per lo standard ES6:
