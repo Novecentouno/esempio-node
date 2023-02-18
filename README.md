@@ -1,8 +1,8 @@
 ### Installazione
 
-Digitare da terminale questo comando:
+Digitare da terminale questo comandoo:
 
-    `npm init`
+`npm init`
 
 Seguire l'installazione guidata andando a sovrascrivere o meno i parametri di dafault.
 
